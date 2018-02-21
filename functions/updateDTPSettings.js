@@ -7,10 +7,6 @@ let Promise = require("bluebird");
 
 
 module.exports = function(){
-    /*request.put('http://' + dtpHostname + ':' + 
-                        dtpEnterprisePackPort + 
-                        updateNetwork, 
-                        putNetworkOptions).then(); */
                         console.log("This was from the updateDTPSettings.js");
                        return Promise.resolve();
                        
