@@ -1,0 +1,15 @@
+{
+  "name": "DTP_Whitelist_adder",
+  "version": "0.0.1",
+  "description": "Adds the DTP Enterprise Pack to the white list.",
+  "main": "test.js",
+  "author": "Billy McMullin",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "request": "^2.81.0",
+    "https": "^1.0.0",
+    "bluebird": "3.5.0"
+  },
+  "devDependencies": {}
+}
